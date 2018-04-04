@@ -1,0 +1,16 @@
+{
+  "name": "belajarmongoose",
+  "version": "1.0.0",
+  "description": "Belajar mongodb express mongoose",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dyo Medio",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongoose": "^5.0.7"
+  }
+}
